@@ -5,7 +5,7 @@ SFMOMA API Metadata Dashboard
 
 SFMOMA API Metadata Dashboard displays the collection metadata overview information such as the completeness and specifics information. The data visualization is done using D3.js Library. Also, the API query and data processing is done in PHP.
 
-The links to the original repo and website will become available by the end of October 2017!
+The links to the original repo and website will become available soon!
 
 ## <a name="usage"></a>Usage
 
