@@ -7,6 +7,8 @@ SFMOMA API Metadata Dashboard displays the collection metadata overview informat
 
 The links to the original repo and website will become available soon!
 
+[Check out current website](https://khanhngg.github.io/collection-dashboard/index.html)
+
 ## <a name="usage"></a>Usage
 
 1. Download or clone the repo
